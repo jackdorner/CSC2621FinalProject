@@ -1,0 +1,412 @@
+TEAM NO
+YEAR
+SEED
+ROUND
+NET RPI
+RESUME
+WAB RANK
+ELO
+B POWER
+Q1 W
+Q2 W
+Q1 PLUS Q2 W
+Q3 Q4 L
+PLUS 500
+R SCORE
+BID TYPE
+ShootingSplits_DUNKS FG%
+ShootingSplits_DUNKS SHARE
+ShootingSplits_DUNKS FG%D
+ShootingSplits_DUNKS D SHARE
+ShootingSplits_CLOSE TWOS FG%
+ShootingSplits_CLOSE TWOS SHARE
+ShootingSplits_CLOSE TWOS FG%D
+ShootingSplits_CLOSE TWOS D SHARE
+ShootingSplits_FARTHER TWOS FG%
+ShootingSplits_FARTHER TWOS SHARE
+ShootingSplits_FARTHER TWOS FG%D
+ShootingSplits_FARTHER TWOS D SHARE
+ShootingSplits_THREES FG%
+ShootingSplits_THREES SHARE
+ShootingSplits_THREES FG%D
+ShootingSplits_THREES D SHARE
+ShootingSplits_DUNKS FG% RANK
+ShootingSplits_DUNKS SHARE RANK
+ShootingSplits_DUNKS FG%D RANK
+ShootingSplits_DUNKS D SHARE RANK
+ShootingSplits_CLOSE TWOS FG% RANK
+ShootingSplits_CLOSE TWOS SHARE RANK
+ShootingSplits_CLOSE TWOS FG%D RANK
+ShootingSplits_CLOSE TWOS D SHARE RANK
+ShootingSplits_FARTHER TWOS FG% RANK
+ShootingSplits_FARTHER TWOS SHARE RANK
+ShootingSplits_FARTHER TWOS FG%D RANK
+ShootingSplits_FARTHER TWOS D SHARE RANK
+ShootingSplits_THREES FG% RANK
+ShootingSplits_THREES SHARE RANK
+ShootingSplits_THREES FG%D RANK
+ShootingSplits_THREES D SHARE RANK
+TeamRankings_Away_TR RANK
+TeamRankings_Away_TR RATING
+TeamRankings_Away_V 1-25 WINS
+TeamRankings_Away_V 1-25 LOSS
+TeamRankings_Away_V 26-50 WINS
+TeamRankings_Away_V 26-50 LOSS
+TeamRankings_Away_V 51-100 WINS
+TeamRankings_Away_V 51-100 LOSS
+TeamRankings_Away_HI
+TeamRankings_Away_LO
+TeamRankings_Away_LAST
+TeamRankings_Home_TR RANK
+TeamRankings_Home_TR RATING
+TeamRankings_Home_V 1-25 WINS
+TeamRankings_Home_V 1-25 LOSS
+TeamRankings_Home_V 26-50 WINS
+TeamRankings_Home_V 26-50 LOSS
+TeamRankings_Home_V 51-100 WINS
+TeamRankings_Home_V 51-100 LOSS
+TeamRankings_Home_HI
+TeamRankings_Home_LO
+TeamRankings_Home_LAST
+TeamRankings_Neutral_TR RANK
+TeamRankings_Neutral_TR RATING
+TeamRankings_Neutral_V 1-25 WINS
+TeamRankings_Neutral_V 1-25 LOSS
+TeamRankings_Neutral_V 26-50 WINS
+TeamRankings_Neutral_V 26-50 LOSS
+TeamRankings_Neutral_V 51-100 WINS
+TeamRankings_Neutral_V 51-100 LOSS
+TeamRankings_Neutral_HI
+TeamRankings_Neutral_LO
+TeamRankings_Neutral_LAST
+KenPom_BarttorvikK TEMPO
+KenPom_BarttorvikK TEMPO RANK
+KenPom_BarttorvikKADJ T
+KenPom_BarttorvikKADJ T RANK
+KenPom_BarttorvikK OFF
+KenPom_BarttorvikKO RANK
+KenPom_BarttorvikKADJ O
+KenPom_BarttorvikKADJ O RANK
+KenPom_BarttorvikK DEF
+KenPom_BarttorvikKD RANK
+KenPom_BarttorvikKADJ D
+KenPom_BarttorvikKADJ D RANK
+KenPom_BarttorvikKADJ EM
+KenPom_BarttorvikKADJ EM RANK
+KenPom_BarttorvikBADJ EM
+KenPom_BarttorvikBADJ O
+KenPom_BarttorvikBADJ D
+KenPom_BarttorvikBARTHAG
+KenPom_BarttorvikGAMES
+KenPom_BarttorvikW
+KenPom_BarttorvikL
+KenPom_BarttorvikWIN%
+KenPom_BarttorvikEFG%
+KenPom_BarttorvikEFG%D
+KenPom_BarttorvikFTR
+KenPom_BarttorvikFTRD
+KenPom_BarttorvikTOV%
+KenPom_BarttorvikTOV%D
+KenPom_BarttorvikOREB%
+KenPom_BarttorvikDREB%
+KenPom_BarttorvikOP OREB%
+KenPom_BarttorvikOP DREB%
+KenPom_BarttorvikRAW T
+KenPom_Barttorvik2PT%
+KenPom_Barttorvik2PT%D
+KenPom_Barttorvik3PT%
+KenPom_Barttorvik3PT%D
+KenPom_BarttorvikBLK%
+KenPom_BarttorvikBLKED%
+KenPom_BarttorvikAST%
+KenPom_BarttorvikOP AST%
+KenPom_Barttorvik2PTR
+KenPom_Barttorvik3PTR
+KenPom_Barttorvik2PTRD
+KenPom_Barttorvik3PTRD
+KenPom_BarttorvikBADJ T
+KenPom_BarttorvikAVG HGT
+KenPom_BarttorvikEFF HGT
+KenPom_BarttorvikEXP
+KenPom_BarttorvikTALENT
+KenPom_BarttorvikFT%
+KenPom_BarttorvikOP FT%
+KenPom_BarttorvikPPPO
+KenPom_BarttorvikPPPD
+KenPom_BarttorvikELITE SOS
+KenPom_BarttorvikWAB
+KenPom_BarttorvikBADJ EM RANK
+KenPom_BarttorvikBADJ O RANK
+KenPom_BarttorvikBADJ D RANK
+KenPom_BarttorvikBARTHAG RANK
+KenPom_BarttorvikEFG% RANK
+KenPom_BarttorvikEFGD% RANK
+KenPom_BarttorvikFTR RANK
+KenPom_BarttorvikFTRD RANK
+KenPom_BarttorvikTOV% RANK
+KenPom_BarttorvikTOV%D RANK
+KenPom_BarttorvikOREB% RANK
+KenPom_BarttorvikDREB% RANK
+KenPom_BarttorvikOP OREB% RANK
+KenPom_BarttorvikOP DREB% RANK
+KenPom_BarttorvikRAW T RANK
+KenPom_Barttorvik2PT% RANK
+KenPom_Barttorvik2PT%D RANK
+KenPom_Barttorvik3PT% RANK
+KenPom_Barttorvik3PT%D RANK
+KenPom_BarttorvikBLK% RANK
+KenPom_BarttorvikBLKED% RANK
+KenPom_BarttorvikAST% RANK
+KenPom_BarttorvikOP AST% RANK
+KenPom_Barttorvik2PTR RANK
+KenPom_Barttorvik3PTR RANK
+KenPom_Barttorvik2PTRD RANK
+KenPom_Barttorvik3PTRD RANK
+KenPom_BarttorvikBADJT RANK
+KenPom_BarttorvikAVG HGT RANK
+KenPom_BarttorvikEFF HGT RANK
+KenPom_BarttorvikEXP RANK
+KenPom_BarttorvikTALENT RANK
+KenPom_BarttorvikFT% RANK
+KenPom_BarttorvikOP FT% RANK
+KenPom_BarttorvikPPPO RANK
+KenPom_BarttorvikPPPD RANK
+KenPom_BarttorvikELITE SOS RANK
+Barttorvik_Away_BADJ EM
+Barttorvik_Away_BADJ O
+Barttorvik_Away_BADJ D
+Barttorvik_Away_BARTHAG
+Barttorvik_Away_GAMES
+Barttorvik_Away_W
+Barttorvik_Away_L
+Barttorvik_Away_WIN%
+Barttorvik_Away_EFG%
+Barttorvik_Away_EFG%D
+Barttorvik_Away_FTR
+Barttorvik_Away_FTRD
+Barttorvik_Away_TOV%
+Barttorvik_Away_TOV%D
+Barttorvik_Away_OREB%
+Barttorvik_Away_DREB%
+Barttorvik_Away_OP OREB%
+Barttorvik_Away_OP DREB%
+Barttorvik_Away_RAW T
+Barttorvik_Away_2PT%
+Barttorvik_Away_2PT%D
+Barttorvik_Away_3PT%
+Barttorvik_Away_3PT%D
+Barttorvik_Away_BLK%
+Barttorvik_Away_BLKED%
+Barttorvik_Away_AST%
+Barttorvik_Away_OP AST%
+Barttorvik_Away_2PTR
+Barttorvik_Away_3PTR
+Barttorvik_Away_2PTRD
+Barttorvik_Away_3PTRD
+Barttorvik_Away_BADJ T
+Barttorvik_Away_AVG HGT
+Barttorvik_Away_EFF HGT
+Barttorvik_Away_EXP
+Barttorvik_Away_TALENT
+Barttorvik_Away_FT%
+Barttorvik_Away_OP FT%
+Barttorvik_Away_PPPO
+Barttorvik_Away_PPPD
+Barttorvik_Away_ELITE SOS
+Barttorvik_Away_WAB
+Barttorvik_Away_BADJ EM RANK
+Barttorvik_Away_BADJ O RANK
+Barttorvik_Away_BADJ D RANK
+Barttorvik_Away_BARTHAG RANK
+Barttorvik_Away_EFG% RANK
+Barttorvik_Away_EFGD% RANK
+Barttorvik_Away_FTR RANK
+Barttorvik_Away_FTRD RANK
+Barttorvik_Away_TOV% RANK
+Barttorvik_Away_TOV%D RANK
+Barttorvik_Away_OREB% RANK
+Barttorvik_Away_DREB% RANK
+Barttorvik_Away_OP OREB% RANK
+Barttorvik_Away_OP DREB% RANK
+Barttorvik_Away_RAW T RANK
+Barttorvik_Away_2PT% RANK
+Barttorvik_Away_2PT%D RANK
+Barttorvik_Away_3PT% RANK
+Barttorvik_Away_3PT%D RANK
+Barttorvik_Away_BLK% RANK
+Barttorvik_Away_BLKED% RANK
+Barttorvik_Away_AST% RANK
+Barttorvik_Away_OP AST% RANK
+Barttorvik_Away_2PTR RANK
+Barttorvik_Away_3PTR RANK
+Barttorvik_Away_2PTRD RANK
+Barttorvik_Away_3PTRD RANK
+Barttorvik_Away_BADJT RANK
+Barttorvik_Away_AVG HGT RANK
+Barttorvik_Away_EFF HGT RANK
+Barttorvik_Away_EXP RANK
+Barttorvik_Away_TALENT RANK
+Barttorvik_Away_FT% RANK
+Barttorvik_Away_OP FT% RANK
+Barttorvik_Away_PPPO RANK
+Barttorvik_Away_PPPD RANK
+Barttorvik_Away_ELITE SOS RANK
+Barttorvik_Home_BADJ EM
+Barttorvik_Home_BADJ O
+Barttorvik_Home_BADJ D
+Barttorvik_Home_BARTHAG
+Barttorvik_Home_GAMES
+Barttorvik_Home_W
+Barttorvik_Home_L
+Barttorvik_Home_WIN%
+Barttorvik_Home_EFG%
+Barttorvik_Home_EFG%D
+Barttorvik_Home_FTR
+Barttorvik_Home_FTRD
+Barttorvik_Home_TOV%
+Barttorvik_Home_TOV%D
+Barttorvik_Home_OREB%
+Barttorvik_Home_DREB%
+Barttorvik_Home_OP OREB%
+Barttorvik_Home_OP DREB%
+Barttorvik_Home_RAW T
+Barttorvik_Home_2PT%
+Barttorvik_Home_2PT%D
+Barttorvik_Home_3PT%
+Barttorvik_Home_3PT%D
+Barttorvik_Home_BLK%
+Barttorvik_Home_BLKED%
+Barttorvik_Home_AST%
+Barttorvik_Home_OP AST%
+Barttorvik_Home_2PTR
+Barttorvik_Home_3PTR
+Barttorvik_Home_2PTRD
+Barttorvik_Home_3PTRD
+Barttorvik_Home_BADJ T
+Barttorvik_Home_AVG HGT
+Barttorvik_Home_EFF HGT
+Barttorvik_Home_EXP
+Barttorvik_Home_TALENT
+Barttorvik_Home_FT%
+Barttorvik_Home_OP FT%
+Barttorvik_Home_PPPO
+Barttorvik_Home_PPPD
+Barttorvik_Home_ELITE SOS
+Barttorvik_Home_WAB
+Barttorvik_Home_BADJ EM RANK
+Barttorvik_Home_BADJ O RANK
+Barttorvik_Home_BADJ D RANK
+Barttorvik_Home_BARTHAG RANK
+Barttorvik_Home_EFG% RANK
+Barttorvik_Home_EFGD% RANK
+Barttorvik_Home_FTR RANK
+Barttorvik_Home_FTRD RANK
+Barttorvik_Home_TOV% RANK
+Barttorvik_Home_TOV%D RANK
+Barttorvik_Home_OREB% RANK
+Barttorvik_Home_DREB% RANK
+Barttorvik_Home_OP OREB% RANK
+Barttorvik_Home_OP DREB% RANK
+Barttorvik_Home_RAW T RANK
+Barttorvik_Home_2PT% RANK
+Barttorvik_Home_2PT%D RANK
+Barttorvik_Home_3PT% RANK
+Barttorvik_Home_3PT%D RANK
+Barttorvik_Home_BLK% RANK
+Barttorvik_Home_BLKED% RANK
+Barttorvik_Home_AST% RANK
+Barttorvik_Home_OP AST% RANK
+Barttorvik_Home_2PTR RANK
+Barttorvik_Home_3PTR RANK
+Barttorvik_Home_2PTRD RANK
+Barttorvik_Home_3PTRD RANK
+Barttorvik_Home_BADJT RANK
+Barttorvik_Home_AVG HGT RANK
+Barttorvik_Home_EFF HGT RANK
+Barttorvik_Home_EXP RANK
+Barttorvik_Home_TALENT RANK
+Barttorvik_Home_FT% RANK
+Barttorvik_Home_OP FT% RANK
+Barttorvik_Home_PPPO RANK
+Barttorvik_Home_PPPD RANK
+Barttorvik_Home_ELITE SOS RANK
+TEAM
+Barttorvik_Neutral_BADJ EM
+Barttorvik_Neutral_BADJ O
+Barttorvik_Neutral_BADJ D
+Barttorvik_Neutral_BARTHAG
+Barttorvik_Neutral_GAMES
+Barttorvik_Neutral_W
+Barttorvik_Neutral_L
+Barttorvik_Neutral_WIN%
+Barttorvik_Neutral_EFG%
+Barttorvik_Neutral_EFG%D
+Barttorvik_Neutral_FTR
+Barttorvik_Neutral_FTRD
+Barttorvik_Neutral_TOV%
+Barttorvik_Neutral_TOV%D
+Barttorvik_Neutral_OREB%
+Barttorvik_Neutral_DREB%
+Barttorvik_Neutral_OP OREB%
+Barttorvik_Neutral_OP DREB%
+Barttorvik_Neutral_RAW T
+Barttorvik_Neutral_2PT%
+Barttorvik_Neutral_2PT%D
+Barttorvik_Neutral_3PT%
+Barttorvik_Neutral_3PT%D
+Barttorvik_Neutral_BLK%
+Barttorvik_Neutral_BLKED%
+Barttorvik_Neutral_AST%
+Barttorvik_Neutral_OP AST%
+Barttorvik_Neutral_2PTR
+Barttorvik_Neutral_3PTR
+Barttorvik_Neutral_2PTRD
+Barttorvik_Neutral_3PTRD
+Barttorvik_Neutral_BADJ T
+Barttorvik_Neutral_AVG HGT
+Barttorvik_Neutral_EFF HGT
+Barttorvik_Neutral_EXP
+Barttorvik_Neutral_TALENT
+Barttorvik_Neutral_FT%
+Barttorvik_Neutral_OP FT%
+Barttorvik_Neutral_PPPO
+Barttorvik_Neutral_PPPD
+Barttorvik_Neutral_ELITE SOS
+Barttorvik_Neutral_WAB
+Barttorvik_Neutral_BADJ EM RANK
+Barttorvik_Neutral_BADJ O RANK
+Barttorvik_Neutral_BADJ D RANK
+Barttorvik_Neutral_BARTHAG RANK
+Barttorvik_Neutral_EFG% RANK
+Barttorvik_Neutral_EFGD% RANK
+Barttorvik_Neutral_FTR RANK
+Barttorvik_Neutral_FTRD RANK
+Barttorvik_Neutral_TOV% RANK
+Barttorvik_Neutral_TOV%D RANK
+Barttorvik_Neutral_OREB% RANK
+Barttorvik_Neutral_DREB% RANK
+Barttorvik_Neutral_OP OREB% RANK
+Barttorvik_Neutral_OP DREB% RANK
+Barttorvik_Neutral_RAW T RANK
+Barttorvik_Neutral_2PT% RANK
+Barttorvik_Neutral_2PT%D RANK
+Barttorvik_Neutral_3PT% RANK
+Barttorvik_Neutral_3PT%D RANK
+Barttorvik_Neutral_BLK% RANK
+Barttorvik_Neutral_BLKED% RANK
+Barttorvik_Neutral_AST% RANK
+Barttorvik_Neutral_OP AST% RANK
+Barttorvik_Neutral_2PTR RANK
+Barttorvik_Neutral_3PTR RANK
+Barttorvik_Neutral_2PTRD RANK
+Barttorvik_Neutral_3PTRD RANK
+Barttorvik_Neutral_BADJT RANK
+Barttorvik_Neutral_AVG HGT RANK
+Barttorvik_Neutral_EFF HGT RANK
+Barttorvik_Neutral_EXP RANK
+Barttorvik_Neutral_TALENT RANK
+Barttorvik_Neutral_FT% RANK
+Barttorvik_Neutral_OP FT% RANK
+Barttorvik_Neutral_PPPO RANK
+Barttorvik_Neutral_PPPD RANK
+Barttorvik_Neutral_ELITE SOS RANK
