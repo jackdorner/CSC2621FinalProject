@@ -1,5 +1,4 @@
 TEAM NO
-YEAR
 SEED
 ROUND
 NET RPI
@@ -13,7 +12,6 @@ Q1 PLUS Q2 W
 Q3 Q4 L
 PLUS 500
 R SCORE
-BID TYPE
 ShootingSplits_DUNKS FG%
 ShootingSplits_DUNKS SHARE
 ShootingSplits_DUNKS FG%D
@@ -79,99 +77,99 @@ TeamRankings_Neutral_V 51-100 LOSS
 TeamRankings_Neutral_HI
 TeamRankings_Neutral_LO
 TeamRankings_Neutral_LAST
-KenPom_BarttorvikK TEMPO
-KenPom_BarttorvikK TEMPO RANK
-KenPom_BarttorvikKADJ T
-KenPom_BarttorvikKADJ T RANK
-KenPom_BarttorvikK OFF
-KenPom_BarttorvikKO RANK
-KenPom_BarttorvikKADJ O
-KenPom_BarttorvikKADJ O RANK
-KenPom_BarttorvikK DEF
-KenPom_BarttorvikKD RANK
-KenPom_BarttorvikKADJ D
-KenPom_BarttorvikKADJ D RANK
-KenPom_BarttorvikKADJ EM
-KenPom_BarttorvikKADJ EM RANK
-KenPom_BarttorvikBADJ EM
-KenPom_BarttorvikBADJ O
-KenPom_BarttorvikBADJ D
-KenPom_BarttorvikBARTHAG
-KenPom_BarttorvikGAMES
-KenPom_BarttorvikW
-KenPom_BarttorvikL
-KenPom_BarttorvikWIN%
-KenPom_BarttorvikEFG%
-KenPom_BarttorvikEFG%D
-KenPom_BarttorvikFTR
-KenPom_BarttorvikFTRD
-KenPom_BarttorvikTOV%
-KenPom_BarttorvikTOV%D
-KenPom_BarttorvikOREB%
-KenPom_BarttorvikDREB%
-KenPom_BarttorvikOP OREB%
-KenPom_BarttorvikOP DREB%
-KenPom_BarttorvikRAW T
-KenPom_Barttorvik2PT%
-KenPom_Barttorvik2PT%D
-KenPom_Barttorvik3PT%
-KenPom_Barttorvik3PT%D
-KenPom_BarttorvikBLK%
-KenPom_BarttorvikBLKED%
-KenPom_BarttorvikAST%
-KenPom_BarttorvikOP AST%
-KenPom_Barttorvik2PTR
-KenPom_Barttorvik3PTR
-KenPom_Barttorvik2PTRD
-KenPom_Barttorvik3PTRD
-KenPom_BarttorvikBADJ T
-KenPom_BarttorvikAVG HGT
-KenPom_BarttorvikEFF HGT
-KenPom_BarttorvikEXP
-KenPom_BarttorvikTALENT
-KenPom_BarttorvikFT%
-KenPom_BarttorvikOP FT%
-KenPom_BarttorvikPPPO
-KenPom_BarttorvikPPPD
-KenPom_BarttorvikELITE SOS
-KenPom_BarttorvikWAB
-KenPom_BarttorvikBADJ EM RANK
-KenPom_BarttorvikBADJ O RANK
-KenPom_BarttorvikBADJ D RANK
-KenPom_BarttorvikBARTHAG RANK
-KenPom_BarttorvikEFG% RANK
-KenPom_BarttorvikEFGD% RANK
-KenPom_BarttorvikFTR RANK
-KenPom_BarttorvikFTRD RANK
-KenPom_BarttorvikTOV% RANK
-KenPom_BarttorvikTOV%D RANK
-KenPom_BarttorvikOREB% RANK
-KenPom_BarttorvikDREB% RANK
-KenPom_BarttorvikOP OREB% RANK
-KenPom_BarttorvikOP DREB% RANK
-KenPom_BarttorvikRAW T RANK
-KenPom_Barttorvik2PT% RANK
-KenPom_Barttorvik2PT%D RANK
-KenPom_Barttorvik3PT% RANK
-KenPom_Barttorvik3PT%D RANK
-KenPom_BarttorvikBLK% RANK
-KenPom_BarttorvikBLKED% RANK
-KenPom_BarttorvikAST% RANK
-KenPom_BarttorvikOP AST% RANK
-KenPom_Barttorvik2PTR RANK
-KenPom_Barttorvik3PTR RANK
-KenPom_Barttorvik2PTRD RANK
-KenPom_Barttorvik3PTRD RANK
-KenPom_BarttorvikBADJT RANK
-KenPom_BarttorvikAVG HGT RANK
-KenPom_BarttorvikEFF HGT RANK
-KenPom_BarttorvikEXP RANK
-KenPom_BarttorvikTALENT RANK
-KenPom_BarttorvikFT% RANK
-KenPom_BarttorvikOP FT% RANK
-KenPom_BarttorvikPPPO RANK
-KenPom_BarttorvikPPPD RANK
-KenPom_BarttorvikELITE SOS RANK
+KenPom_Barttorvik_K TEMPO
+KenPom_Barttorvik_K TEMPO RANK
+KenPom_Barttorvik_KADJ T
+KenPom_Barttorvik_KADJ T RANK
+KenPom_Barttorvik_K OFF
+KenPom_Barttorvik_KO RANK
+KenPom_Barttorvik_KADJ O
+KenPom_Barttorvik_KADJ O RANK
+KenPom_Barttorvik_K DEF
+KenPom_Barttorvik_KD RANK
+KenPom_Barttorvik_KADJ D
+KenPom_Barttorvik_KADJ D RANK
+KenPom_Barttorvik_KADJ EM
+KenPom_Barttorvik_KADJ EM RANK
+KenPom_Barttorvik_BADJ EM
+KenPom_Barttorvik_BADJ O
+KenPom_Barttorvik_BADJ D
+KenPom_Barttorvik_BARTHAG
+KenPom_Barttorvik_GAMES
+KenPom_Barttorvik_W
+KenPom_Barttorvik_L
+KenPom_Barttorvik_WIN%
+KenPom_Barttorvik_EFG%
+KenPom_Barttorvik_EFG%D
+KenPom_Barttorvik_FTR
+KenPom_Barttorvik_FTRD
+KenPom_Barttorvik_TOV%
+KenPom_Barttorvik_TOV%D
+KenPom_Barttorvik_OREB%
+KenPom_Barttorvik_DREB%
+KenPom_Barttorvik_OP OREB%
+KenPom_Barttorvik_OP DREB%
+KenPom_Barttorvik_RAW T
+KenPom_Barttorvik_2PT%
+KenPom_Barttorvik_2PT%D
+KenPom_Barttorvik_3PT%
+KenPom_Barttorvik_3PT%D
+KenPom_Barttorvik_BLK%
+KenPom_Barttorvik_BLKED%
+KenPom_Barttorvik_AST%
+KenPom_Barttorvik_OP AST%
+KenPom_Barttorvik_2PTR
+KenPom_Barttorvik_3PTR
+KenPom_Barttorvik_2PTRD
+KenPom_Barttorvik_3PTRD
+KenPom_Barttorvik_BADJ T
+KenPom_Barttorvik_AVG HGT
+KenPom_Barttorvik_EFF HGT
+KenPom_Barttorvik_EXP
+KenPom_Barttorvik_TALENT
+KenPom_Barttorvik_FT%
+KenPom_Barttorvik_OP FT%
+KenPom_Barttorvik_PPPO
+KenPom_Barttorvik_PPPD
+KenPom_Barttorvik_ELITE SOS
+KenPom_Barttorvik_WAB
+KenPom_Barttorvik_BADJ EM RANK
+KenPom_Barttorvik_BADJ O RANK
+KenPom_Barttorvik_BADJ D RANK
+KenPom_Barttorvik_BARTHAG RANK
+KenPom_Barttorvik_EFG% RANK
+KenPom_Barttorvik_EFGD% RANK
+KenPom_Barttorvik_FTR RANK
+KenPom_Barttorvik_FTRD RANK
+KenPom_Barttorvik_TOV% RANK
+KenPom_Barttorvik_TOV%D RANK
+KenPom_Barttorvik_OREB% RANK
+KenPom_Barttorvik_DREB% RANK
+KenPom_Barttorvik_OP OREB% RANK
+KenPom_Barttorvik_OP DREB% RANK
+KenPom_Barttorvik_RAW T RANK
+KenPom_Barttorvik_2PT% RANK
+KenPom_Barttorvik_2PT%D RANK
+KenPom_Barttorvik_3PT% RANK
+KenPom_Barttorvik_3PT%D RANK
+KenPom_Barttorvik_BLK% RANK
+KenPom_Barttorvik_BLKED% RANK
+KenPom_Barttorvik_AST% RANK
+KenPom_Barttorvik_OP AST% RANK
+KenPom_Barttorvik_2PTR RANK
+KenPom_Barttorvik_3PTR RANK
+KenPom_Barttorvik_2PTRD RANK
+KenPom_Barttorvik_3PTRD RANK
+KenPom_Barttorvik_BADJT RANK
+KenPom_Barttorvik_AVG HGT RANK
+KenPom_Barttorvik_EFF HGT RANK
+KenPom_Barttorvik_EXP RANK
+KenPom_Barttorvik_TALENT RANK
+KenPom_Barttorvik_FT% RANK
+KenPom_Barttorvik_OP FT% RANK
+KenPom_Barttorvik_PPPO RANK
+KenPom_Barttorvik_PPPD RANK
+KenPom_Barttorvik_ELITE SOS RANK
 Barttorvik_Away_BADJ EM
 Barttorvik_Away_BADJ O
 Barttorvik_Away_BADJ D
